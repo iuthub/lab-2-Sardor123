@@ -1,0 +1,27 @@
+body {
+  background-color:#595547;
+  padding: 0px 90px;
+}
+
+.titles{
+	color: #9FC2F8;
+	font-family: Verdana;
+	text-align: left;
+}
+
+ .links{
+    color: #FF4F4C;
+}
+
+.imglinks{
+    border: 2px red;
+}
+.whitetext{
+	color: white;
+	font-family: Arial;
+	text-align: left;
+}
+
+#good{
+	color: #FFF268;
+}
